@@ -7,7 +7,7 @@ The Simple Shell is a tool that helps users give commands to the computer. It ta
 
 ## Requirements
 
-* Compilation: Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
+* Compilation: Ubuntu 22.04.4 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 * Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
 * Your shell should not have any memory leaks
 * No more than 5 functions per file
@@ -48,6 +48,8 @@ To run our Simple Shell :<br>
 
 
 ## Diagram UML
+
+<img src="diagramme.png">
 
 ## File structure
 
